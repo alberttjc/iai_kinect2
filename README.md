@@ -1,5 +1,8 @@
 # IAI Kinect2
 
+## Update
+Tested and worked with ROS Melodic
+
 ## Maintainer
 
 - [Thiemo Wiedemeyer](https://ai.uni-bremen.de/team/thiemo_wiedemeyer) <<wiedemeyer@cs.uni-bremen.de>>, [Institute for Artificial Intelligence](http://ai.uni-bremen.de/), University of Bremen
